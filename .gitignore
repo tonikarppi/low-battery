@@ -1,4 +1,4 @@
-*
+*/**
 
 !README.md
 !.gitignore
@@ -6,3 +6,4 @@
 !poetry.lock
 
 !low-battery.py
+!sounds/*
