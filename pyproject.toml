@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "low-battery"
 version = "0.1.0"
-description = ""
+description = "Plays a sound on low battery"
 authors = ["Toni Karppi <karppitoni@gmail.com>"]
 license = "MIT"
 
