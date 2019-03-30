@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import psutil
 from datetime import datetime
 from pydub import AudioSegment
